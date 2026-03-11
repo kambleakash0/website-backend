@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "compression": "^1.8.1",
-    "cors": "^2.5.2",
+    "cors": "^2.8.6",
     "helmet": "^8.1.0",
     "loopback-boot": "^3.3.1",
     "serve-favicon": "^2.0.1",
