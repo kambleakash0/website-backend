@@ -21,7 +21,7 @@
     "loopback": "^3.28.0"
   },
   "devDependencies": {
-    "eslint": "^10.2.1",
+    "eslint": "^10.3.0",
     "eslint-config-loopback": "^14.0.0"
   },
   "overrides": {
