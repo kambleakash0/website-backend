@@ -11,7 +11,7 @@
     "posttest": "npm run lint && npm audit"
   },
   "dependencies": {
-    "compression": "^1.8.1",
+    "compression": "^1.8.2",
     "cors": "^2.8.6",
     "helmet": "^8.3.0",
     "loopback-boot": "^3.3.1",
